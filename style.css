@@ -1,6 +1,9 @@
 *{
    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; 
 }
+.navbar{
+   background-color: black !important;
+}
 h2{
    color: chartreuse !important;
 }
@@ -12,4 +15,22 @@ section{
    background-size: cover;
    background-position: center center;
 }
+.img{
+   width: 100px;
+   height: 100px;
+   background-size: cover;
+   background-position: center center;
+}
+.card1{
+   background-color: black !important;
+   width: 300px;
+   height: 380px;
+}
+#Tecnologias , #Projetos{
+   background-color: black !important;
+}
+
+
+
+
 
