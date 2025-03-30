@@ -7,10 +7,9 @@
 h2{
    color: chartreuse !important;
 }
-section{
-   height:100vh; 
-}
-.Inicio{
+
+#Inicio{
+   
    background-image: url(/img/vanishing-stripes\ \(1\).svg);
    background-size: cover;
    background-position: center center;
@@ -26,8 +25,12 @@ section{
    width: 300px;
    height: 380px;
 }
-#Tecnologias , #Projetos{
+#Tecnologias,#Projetos,#Sobre-mim{
    background-color: black !important;
+}
+.bord{
+   border: solid 2px white !important;
+   border-radius: 20px;
 }
 
 
