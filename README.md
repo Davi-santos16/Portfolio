@@ -30,5 +30,7 @@
 
 ## 🖼️ Captura de Tela
 ![Captura de tela 2025-03-30 213441](https://github.com/user-attachments/assets/0e0c2319-898f-4cde-b359-3f53002fdfbf)
+![Captura de tela 2025-03-30 213459](https://github.com/user-attachments/assets/1a60257d-f6c5-4e08-8bf4-f9f57dbf93d0)
+
 
 
