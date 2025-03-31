@@ -14,7 +14,7 @@
 
 - CSS3
   
--Bootstrap
+- Bootstrap
 
 - Git/GitHub
 
@@ -27,3 +27,8 @@
 - 💼 LinkedIn: https://www.linkedin.com/in/davicastro213/
 
 - 📁 GitHub: https://github.com/Davi-santos16/
+
+## 🖼️ Captura de Tela
+![Captura de tela 2025-03-30 213441](https://github.com/user-attachments/assets/0e0c2319-898f-4cde-b359-3f53002fdfbf)
+
+
