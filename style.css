@@ -24,3 +24,10 @@ h2,h1{
     font-weight: bold;
      
 }
+.pr:hover{
+    transform: scale(1.1);
+}
+.pr{
+    transition: all 0.3s ease-in-out;   
+    
+}
