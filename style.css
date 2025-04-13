@@ -15,3 +15,12 @@ body{
     transform: scale(1.1); 
     transition: all 0.2s ease-in-out;
 }
+h2,h1{
+   
+    background: linear-gradient(to right, #139fcd, #082bed, #198cf0);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 40px;
+    font-weight: bold;
+     
+}
