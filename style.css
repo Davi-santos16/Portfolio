@@ -40,3 +40,15 @@ h2,h1{
 .bord img{
     margin-top: 4px;
 }
+#img-sobremim{
+    border-radius: 21px;
+    border: solid white 2px;
+    
+}
+#card-sobremim{
+    border-radius: 20px;
+}
+#card-contatos{
+    background-color: #2c2826 !important;
+    border-radius: 20px;
+}
