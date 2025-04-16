@@ -1,15 +1,10 @@
 ## 🖥️ Meu Portfólio
- link do portfólio- https://lnkd.in/dTmGe4kS
+ 
+ - Bem-vindo ao meu repositório! Este é o meu portfólio pessoal, onde apresento meus projetos, habilidades e experiências na área de desenvolvimento.
  
  ![Captura de tela 2025-04-16 075758](https://github.com/user-attachments/assets/4a057b70-ce10-44b4-99f6-8ee3ef172008)
 
-
-
-
-
-## 🖥️ Meu Portfólio
-
-- Bem-vindo ao meu repositório! Este é o meu portfólio pessoal, onde apresento meus projetos, habilidades e experiências na área de desenvolvimento.
+ - Visualize meu portfólio:  https://lnkd.in/dTmGe4kS
 
  ## 📌 Sobre o Projeto
 
