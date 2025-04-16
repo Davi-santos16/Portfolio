@@ -5,6 +5,7 @@
  ![Captura de tela 2025-04-16 075758](https://github.com/user-attachments/assets/4a057b70-ce10-44b4-99f6-8ee3ef172008)
 
  - Visualize meu portfólio:  https://lnkd.in/dTmGe4kS
+ - Visualize meu Linkedin: https://www.linkedin.com/posts/davicastro213_ol%C3%A1-eu-sou-o-davi-desenvolvedor-front-end-activity-7318227465242394625-N-Rt?utm_source=share&utm_medium=member_desktop&rcm=ACoAAElMyhYB4qnKrV3YtwWHxXP7plwWQ9P3BpY
 
  ## 📌 Sobre o Projeto
 
