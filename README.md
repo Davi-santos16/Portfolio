@@ -4,7 +4,7 @@
  
  ![Captura de tela 2025-04-16 075758](https://github.com/user-attachments/assets/4a057b70-ce10-44b4-99f6-8ee3ef172008)
 
- - Visualize meu portfólio:  https://lnkd.in/dTmGe4kS
+ - Visualize meu portfólio:https://davi-santos16.github.io/Portfolio/
  - Visualize meu Linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7318232517541560322/
 
  ## 📌 Sobre o Projeto
